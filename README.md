@@ -19,8 +19,8 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
+<!-- [![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url] -->
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -46,14 +46,20 @@
 
   </p>
 
-    <br />
-    <br />
-    <br />
-    <a href="https://github.com/Shivamkak19/REM-Clock/images">View Product</a>
-    ·
-    <a href="https://github.com/Shivamkak19/REM-Clock/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Shivamkak19/REM-Clock/issues">Request Feature</a>
+Have you ever wanted to optimize the sleep you get at night? From service staff working night shifts to doctors staffing the emergency room to athletes on professional training cycles, many people in society only have a limited window of time in which they can get the sleep they need for the night.
+
+What if there was a way to guarantee restful sleep during this window of time?
+
+Sleep therapists recommend waking from sleep after completion of a REM cycle, which is the latter half of the general sleep cycle. The REM-Clock sets an alarm that wakes up users after an input REM sleep cycle count to maximize restful sleep for users. `
+
+<br />
+<br />
+<br />
+<a href="https://github.com/Shivamkak19/REM-Clock/images">View Product</a>
+·
+<a href="https://github.com/Shivamkak19/REM-Clock/issues">Report Bug</a>
+·
+<a href="https://github.com/Shivamkak19/REM-Clock/issues">Request Feature</a>
 </div>
 
 
