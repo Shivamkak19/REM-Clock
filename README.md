@@ -44,6 +44,8 @@
 
     Sleep therapists recommend waking from sleep after completion of a REM cycle, which is the latter half of the general sleep cycle. The REM-Clock sets an alarm that wakes up users after an input REM sleep cycle count to maximize restful sleep for users. `
 
+  </p>
+
     <br />
     <br />
     <br />
@@ -52,7 +54,6 @@
     <a href="https://github.com/Shivamkak19/REM-Clock/issues">Report Bug</a>
     ·
     <a href="https://github.com/Shivamkak19/REM-Clock/issues">Request Feature</a>
-  </p>
 </div>
 
 
@@ -86,9 +87,9 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Project Design
 
-[![Product Name Screen Shot][product-screenshot]]
+![Product Name Screen Shot][product-screenshot]
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -128,8 +129,8 @@ Once the source code is uploaded onto an Arduino Uno, the user must strap their 
 
 The alarm will ring after the input REM cycle count has elapsed. 
 
-[![Product Name Screen Shot][product-screenshot2]]
-[![Product Name Screen Shot][product-screenshot3]]
+![Product Name Screen Shot][product-screenshot2]
+![Product Name Screen Shot][product-screenshot3]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -176,9 +177,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Shivam Kak: sk3686@princeton.edu
-Maxwell Lin: ml7013@princeton.edu
-Project Link: [https://github.com/Shivamkak19/REM-Clock](https://github.com/Shivamkak19/REM-Clock)
+* Shivam Kak: sk3686@princeton.edu
+* Maxwell Lin: ml7013@princeton.edu
+* Project Link: [https://github.com/Shivamkak19/REM-Clock](https://github.com/Shivamkak19/REM-Clock)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
