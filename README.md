@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Shivamkak19/REM-Clock">
-    <img src="images/logo1.png" alt="Logo" width="80" height="80">
+    <img src="images/logo1.png" alt="Logo">
   </a>
 
 <h3 align="center">REM Clock</h3>
@@ -208,9 +208,9 @@ Project Link: [https://github.com/Shivamkak19/REM-Clock](https://github.com/Shiv
 [license-url]: https://github.com/Shivamkak19/REM-Clock/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/shivamkak
-[product-screenshot]: images/product-1.png
-[product-screenshot2]: images/product-2.png
-[product-screenshot3]: images/product-3.png
+[product-screenshot]: images/product-1.jpg
+[product-screenshot2]: images/product-2.jpg
+[product-screenshot3]: images/product-3.jpg
 
 <!-- Language Shields -->
 [cplusplus]:  https://img.shields.io/badge/C++-00427e?style=for-the-badge&logo=cplusplus&logoColor=61DAFB
