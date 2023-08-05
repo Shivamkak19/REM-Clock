@@ -34,7 +34,7 @@
     <img src="images/logo1.png" alt="Logo">
   </a>
 
-<h3 align="center">REM Clock</h3>
+<h3 align="center">Project Description</h3>
 
 Have you ever wanted to optimize the sleep you get at night? From service staff working night shifts to doctors staffing the emergency room to athletes on professional training cycles, many people in society only have a limited window of time in which they can get the sleep they need for the night.
 
@@ -43,8 +43,6 @@ What if there was a way to guarantee restful sleep during this window of time?
 Sleep therapists recommend waking from sleep after completion of a REM cycle, which is the latter half of the general sleep cycle. The REM-Clock sets an alarm that wakes up users after an input REM sleep cycle count to maximize restful sleep for users. `
 
 <br />
-<br />
-<br />
 
 <a href="https://github.com/Shivamkak19/REM-Clock/images">View Product</a>
 ·
@@ -52,8 +50,6 @@ Sleep therapists recommend waking from sleep after completion of a REM cycle, wh
 ·
 <a href="https://github.com/Shivamkak19/REM-Clock/issues">Request Feature</a>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
