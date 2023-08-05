@@ -1,14 +1,4 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -18,14 +8,13 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -77,8 +66,6 @@ Sleep therapists recommend waking from sleep after completion of a REM cycle, wh
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## Project Design
 
@@ -93,7 +80,6 @@ Sleep therapists recommend waking from sleep after completion of a REM cycle, wh
 * [![Arduino][arduino]][arduino-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -114,7 +100,6 @@ Download here: https://www.arduino.cc/en/software
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
@@ -125,9 +110,7 @@ The alarm will ring after the input REM cycle count has elapsed.
 ![Product Name Screen Shot][product-screenshot2]
 ![Product Name Screen Shot][product-screenshot3]
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -140,8 +123,6 @@ The alarm will ring after the input REM cycle count has elapsed.
 See the [open issues](https://github.com/Shivamkak19/REM-Clock/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -157,14 +138,12 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTACT -->
@@ -177,7 +156,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
@@ -185,7 +163,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 * []() David Radcliff, Undergraduate Lab Manager @ Princeton Engineering, for assistance in debugging hardware issues and instruction in proper usage of electrical equipment.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -206,7 +183,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [product-screenshot2]: images/product-2.jpg
 [product-screenshot3]: images/product-3.jpg
 
-<!-- Language Shields -->
+<!-- Programming Language Shields -->
 [cplusplus]:  https://img.shields.io/badge/C++-00427e?style=for-the-badge&logo=cplusplus&logoColor=61DAFB
 [cplusplus-url]: https://cplusplus.com/
 
